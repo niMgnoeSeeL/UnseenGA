@@ -1,0 +1,16 @@
+# R packages
+
+reshape2
+gmp
+Rmpfr # installing GMP library is required
+dplyr
+ggplot2
+gridExtra
+extraDistr
+
+# Python packages
+
+numpy
+pandas
+matplotlib
+seaborn

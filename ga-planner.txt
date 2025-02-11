@@ -1,0 +1,19 @@
+# S, dist, n, m, k, setting, p_est_method, start_seed, rep_smp, rep_evo, max_term, max_iter
+100 uniform 100 200 0 sampling nGT 0 30 1 20 2000
+100 half 100 200 0 sampling nGT 0 30 1 20 2000
+100 zipf 100 200 0 sampling nGT 0 30 1 20 2000
+100 zipfhalf 100 200 0 sampling nGT 0 30 1 20 2000
+100 diri 100 200 0 sampling nGT 0 30 1 20 2000
+100 dirihalf 100 200 0 sampling nGT 0 30 1 20 2000
+100 uniform 100 500 0 sampling nGT 0 30 1 20 2000
+100 half 100 500 0 sampling nGT 0 30 1 20 2000
+100 zipf 100 500 0 sampling nGT 0 30 1 20 2000
+100 zipfhalf 100 500 0 sampling nGT 0 30 1 20 2000
+100 diri 100 500 0 sampling nGT 0 30 1 20 2000
+100 dirihalf 100 500 0 sampling nGT 0 30 1 20 2000
+100 uniform 100 1000 0 sampling nGT 0 30 1 20 2000
+100 half 100 1000 0 sampling nGT 0 30 1 20 2000
+100 zipf 100 1000 0 sampling nGT 0 30 1 20 2000
+100 zipfhalf 100 1000 0 sampling nGT 0 30 1 20 2000
+100 diri 100 1000 0 sampling nGT 0 30 1 20 2000
+100 dirihalf 100 1000 0 sampling nGT 0 30 1 20 2000
